@@ -77,8 +77,25 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .image {
   color:#000000;
+}
+.vertical_line {
+}
+.table {
+}
+.table_cell {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.icon {
 }
 .box_21 {
 }
