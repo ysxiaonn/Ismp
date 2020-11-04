@@ -9,6 +9,8 @@
 }
 ._图像 {
 }
+.button {
+}
 ._标题1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -122,4 +124,7 @@
 .box_1 {
 }
 .box_11 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
