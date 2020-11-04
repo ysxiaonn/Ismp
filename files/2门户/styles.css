@@ -1907,3 +1907,34 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u213_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:25px;
+}
+#u213 {
+  position:absolute;
+  left:1509px;
+  top:49px;
+  width:25px;
+  height:25px;
+}
+#u214 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u215 {
+  position:absolute;
+  left:1509px;
+  top:45px;
+  width:37px;
+  height:32px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
