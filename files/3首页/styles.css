@@ -1540,52 +1540,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u349_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1005px;
-  height:394px;
-}
-#u349 {
-  position:absolute;
-  left:467px;
-  top:209px;
-  width:1005px;
-  height:394px;
-}
-#u350 {
-  position:absolute;
-  left:2px;
-  top:189px;
-  width:1001px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u351_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:86px;
-}
-#u351 {
-  position:absolute;
-  left:1441px;
-  top:360px;
-  width:57px;
-  height:86px;
-  font-size:14px;
-  color:#FF3399;
-}
-#u352 {
-  position:absolute;
-  left:2px;
-  top:19px;
-  width:53px;
-  word-wrap:break-word;
-}
-#u353_div {
+#u349_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -1599,14 +1554,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u353 {
+#u349 {
   position:absolute;
   left:1490px;
   top:215px;
   width:8px;
   height:112px;
 }
-#u354 {
+#u350 {
   position:absolute;
   left:2px;
   top:48px;
@@ -1614,14 +1569,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u355_img {
+#u351_img {
   position:absolute;
   left:0px;
   top:0px;
   width:138px;
   height:49px;
 }
-#u355 {
+#u351 {
   position:absolute;
   left:619px;
   top:160px;
@@ -1630,11 +1585,56 @@
   font-size:14px;
   color:#FF3399;
 }
-#u356 {
+#u352 {
   position:absolute;
   left:2px;
   top:8px;
   width:134px;
+  word-wrap:break-word;
+}
+#u353_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1015px;
+  height:396px;
+}
+#u353 {
+  position:absolute;
+  left:467px;
+  top:216px;
+  width:1015px;
+  height:396px;
+}
+#u354 {
+  position:absolute;
+  left:2px;
+  top:190px;
+  width:1011px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u355_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:86px;
+}
+#u355 {
+  position:absolute;
+  left:1441px;
+  top:360px;
+  width:57px;
+  height:86px;
+  font-size:14px;
+  color:#FF3399;
+}
+#u356 {
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:53px;
   word-wrap:break-word;
 }
 #u357_div {
