@@ -61,7 +61,7 @@
   left:105px;
   top:131px;
   width:1077px;
-  height:307px;
+  height:343px;
 }
 #u3_img {
   position:absolute;
@@ -729,7 +729,118 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u63_div {
+#u63_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:103px;
+  height:36px;
+}
+#u63 {
+  position:absolute;
+  left:0px;
+  top:302px;
+  width:103px;
+  height:36px;
+  text-align:left;
+}
+#u64 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:99px;
+  word-wrap:break-word;
+}
+#u65_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:121px;
+  height:36px;
+}
+#u65 {
+  position:absolute;
+  left:103px;
+  top:302px;
+  width:121px;
+  height:36px;
+  text-align:left;
+}
+#u66 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:117px;
+  word-wrap:break-word;
+}
+#u67_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:177px;
+  height:36px;
+}
+#u67 {
+  position:absolute;
+  left:224px;
+  top:302px;
+  width:177px;
+  height:36px;
+  text-align:left;
+}
+#u68 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:173px;
+  word-wrap:break-word;
+}
+#u69_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:472px;
+  height:36px;
+}
+#u69 {
+  position:absolute;
+  left:401px;
+  top:302px;
+  width:472px;
+  height:36px;
+  text-align:left;
+}
+#u70 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:468px;
+  word-wrap:break-word;
+}
+#u71_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:199px;
+  height:36px;
+}
+#u71 {
+  position:absolute;
+  left:873px;
+  top:302px;
+  width:199px;
+  height:36px;
+  text-align:left;
+}
+#u72 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:195px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u73_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -743,21 +854,21 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u63 {
+#u73 {
   position:absolute;
   left:1037px;
   top:54px;
   width:140px;
   height:57px;
 }
-#u64 {
+#u74 {
   position:absolute;
   left:2px;
   top:20px;
   width:136px;
   word-wrap:break-word;
 }
-#u65 {
+#u75 {
   position:absolute;
   left:1037px;
   top:54px;
